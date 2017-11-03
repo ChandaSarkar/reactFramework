@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "Demo react app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "Chanda",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "run-sequence": "^1.1.5"
+  }
+}

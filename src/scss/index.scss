@@ -1,0 +1,10 @@
+table {
+    border: 1px solid black;
+    td {
+        border: 1px solid green;
+    }
+
+    tr:nth-child(even) {
+        background: #ccc;
+    }
+}
